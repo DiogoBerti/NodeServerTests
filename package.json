@@ -1,0 +1,13 @@
+{
+  "name": "node_portal",
+  "version": "1.0.0",
+  "description": "Portal em Node",
+  "author": "Diogo Berti",
+  "main": "server_app.js",
+  "scripts": {
+    "start": "node server_app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
